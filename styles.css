@@ -1,0 +1,117 @@
+.paragraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+/* Colors for task priority */
+.low-priority {
+    background-color: green;
+    color: white;
+}
+
+.medium-priority {
+    background-color: yellow;
+    color: black;
+}
+
+.high-priority {
+    background-color: red;
+    color: white;
+}
+
+.container input {
+    margin: 5px 0;
+    padding: 5px;
+    font-size: 16px;
+}
+
+#userField, #durationField, #dateField {
+    width: 300px;
+}
+
+#taskPriority {
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.to-dos {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+h2 {
+    margin-top: 20px;
+    color: #333;
+}
+
+/* Set the background color for the entire body */
+body {
+    background-color: #ffffff; /* Light blue background */
+}
+
+/* Style for the paragraphs */
+.paragraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+/* Colors for task priority */
+.low-priority {
+    background-color: green;
+    color: white;
+}
+
+.medium-priority {
+    background-color: yellow;
+    color: black;
+}
+
+.high-priority {
+    background-color: red;
+    color: white;
+}
+
+/* Style for input fields */
+.container input {
+    margin: 5px 0;
+    padding: 5px;
+    font-size: 16px;
+}
+
+#userField, #durationField, #dateField {
+    width: 300px;
+}
+
+#taskPriority {
+    margin-top: 10px;
+}
+
+/* Style for buttons */
+button {
+    margin-top: 10px;
+}
+
+/* Style for the task container */
+.to-dos {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ff0000;
+}
+
+/* Style for headings */
+h2 {
+    margin-top: 20px;
+    color: #333;
+}
